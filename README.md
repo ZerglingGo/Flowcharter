@@ -1,4 +1,6 @@
-Flowcharter
+Flowcharter v 1.0
 ===========
 
-Draw a flowchart.
+
+[Q&A]<br />
+Q.how to use it?

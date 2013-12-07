@@ -1,0 +1,16 @@
+C:\Users\Anonymous\AppData\Local\Temporary Projects\FlowCharter\bin\Debug\FlowCharter.exe
+C:\Users\Anonymous\AppData\Local\Temporary Projects\FlowCharter\bin\Debug\FlowCharter.pdb
+C:\Users\Anonymous\AppData\Local\Temporary Projects\FlowCharter\obj\x86\Debug\MainWindow.baml
+C:\Users\Anonymous\AppData\Local\Temporary Projects\FlowCharter\obj\x86\Debug\Styles\VS2012WindowStyle.baml
+C:\Users\Anonymous\AppData\Local\Temporary Projects\FlowCharter\obj\x86\Debug\App.baml
+C:\Users\Anonymous\AppData\Local\Temporary Projects\FlowCharter\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Anonymous\AppData\Local\Temporary Projects\FlowCharter\obj\x86\Debug\Styles\VS2012WindowStyle.g.cs
+C:\Users\Anonymous\AppData\Local\Temporary Projects\FlowCharter\obj\x86\Debug\App.g.cs
+C:\Users\Anonymous\AppData\Local\Temporary Projects\FlowCharter\obj\x86\Debug\FlowCharter_MarkupCompile.cache
+C:\Users\Anonymous\AppData\Local\Temporary Projects\FlowCharter\obj\x86\Debug\FlowCharter.g.resources
+C:\Users\Anonymous\AppData\Local\Temporary Projects\FlowCharter\obj\x86\Debug\FlowCharter.Properties.Resources.resources
+C:\Users\Anonymous\AppData\Local\Temporary Projects\FlowCharter\obj\x86\Debug\FlowCharter.csproj.GenerateResource.Cache
+C:\Users\Anonymous\AppData\Local\Temporary Projects\FlowCharter\obj\x86\Debug\FlowCharter.exe
+C:\Users\Anonymous\AppData\Local\Temporary Projects\FlowCharter\obj\x86\Debug\FlowCharter.pdb
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FlowCharter\FlowCharter\obj\x86\Debug\FlowCharter.exe
+C:\Users\Anonymous\Documents\Visual Studio 2010\Projects\FlowCharter\FlowCharter\obj\x86\Debug\FlowCharter.pdb
